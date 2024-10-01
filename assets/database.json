@@ -1,0 +1,90 @@
+{
+  "games": [
+    {
+      "name": "Super Metroid",
+      "developer": "Nintendo",
+      "year": "1992",
+      "players": "1",
+      "blurb": "",
+      "platform": "SNES",
+      "assets": {
+        "front": "https://cdn2.steamgriddb.com/grid/167248f62dbaf61aff4b7d1be9439282.jpg",
+		"banner": "https://cdn2.steamgriddb.com/hero/cc34f605458c15226bb56a2d79f3d62c.png",
+        "logo": "https://cdn2.steamgriddb.com/logo/8a9c8ac001d3ef9e4ce39b1177295e03.png",
+        "screenshot1": "https://cdn.staticneo.com/p/2020/super_metroid_image_znvDf.gif",
+        "screenshot2": "https://images.launchbox-app.com/a704efbc-8c32-4322-a14d-aeacef2bd8bb.png"
+      }
+    },
+    {
+      "name": "Super Mario Kart",
+      "developer": "Nintendo",
+      "year": "1992",
+      "players": "2",
+      "blurb": "",
+      "platform": "SNES",
+      "assets": {
+        "front": "https://cdn2.steamgriddb.com/grid/22332aa98a4ded3cadbda1e9ae635b2e.png",
+		"banner": "https://cdn2.steamgriddb.com/hero/df46e19efffe9c4cd3e8808359aa8c8a.png",
+        "logo": "https://cdn2.steamgriddb.com/logo/7a6a74cbe87bc60030a4bd041dd47b78.png",
+        "screenshot1": "https://www.gameuidatabase.com/uploads/Super-Mario-Kart07292023-101133-94130.jpg",
+        "screenshot2": "https://www.gameuidatabase.com/uploads/Super-Mario-Kart07292023-101133-84118.jpg"
+      }
+    },
+    {
+      "name": "Batman",
+      "developer": "Sunsoft",
+      "year": "1989",
+      "players": "1",
+      "blurb": "",
+      "platform": "NES",
+      "assets": {
+        "front": "https://cdn2.steamgriddb.com/grid/887eff7a958794fdd24c2beb6f85ddae.png",
+		"banner": "https://cdn2.steamgriddb.com/hero/33b879e7ab79f56af1e88359f9314a10.jpg",
+        "logo": "https://cdn2.steamgriddb.com/logo/d8c2a05e8270406dcdd260a088902cb5.png",
+        "screenshot1": "https://images.launchbox-app.com/bae13e70-b353-4f72-9dd5-f39a8830d79c.png",
+        "screenshot2": "https://images.launchbox-app.com/93604846-8388-4cad-91c6-24b9f941e396.png"
+      }
+    },	
+    {
+      "name": "Sonic the Hedgehog",
+      "developer": "Sega",
+      "year": "1991",
+      "players": "1",
+      "blurb": "",
+      "platform": "MD",
+      "assets": {
+        "front": "https://cdn2.steamgriddb.com/grid/b770b7f95f0958faf064646e4a3efbdf.png",
+		"banner": "https://cdn2.steamgriddb.com/hero/fc8956a9c5bb091ed488e75e3df5ae4f.png",
+		"logo": "https://cdn2.steamgriddb.com/logo/47c95199b010148056eda6ac6f961c63.png",
+        "screenshot1": "https://images.launchbox-app.com/0b29704f-10a8-487c-a145-dc75a19bf955.png",
+        "screenshot2": "https://images.launchbox-app.com/5f835831-a497-4a8b-a0c4-d815624c22d0.png"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "name": "SNES",
+      "logo": "snes.png",
+	  "resolutionx": "256",
+	  "resolutiony": "224"
+    },
+    {
+      "name": "NES",
+      "logo": "nes.png",
+	  "resolutionx": "256",
+	  "resolutiony": "224"
+    },
+    {
+      "name": "GB",
+      "logo": "gb.png",
+	  "resolutionx": "160",
+	  "resolutiony": "144"
+    },
+    {
+      "name": "MD",
+      "logo": "md.png",
+	  "resolutionx": "320",
+	  "resolutiony": "224"
+    }
+  ]
+}
