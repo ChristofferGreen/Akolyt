@@ -37,6 +37,7 @@ output_card_back() {
     local screenshot1_processed_path="$(download_resize_image "$platform" "$game" "screenshot1" "$(db_game_property "$platform" "$game" "assets.screenshot1")" "${target_width}x${screenshot_height}!")"
     local screenshot2_processed_path="$(download_resize_image "$platform" "$game" "screenshot2" "$(db_game_property "$platform" "$game" "assets.screenshot2")" "${target_width}x${screenshot_height}!")"
     if $scanlines; then
+		:
     fi
     local -r game_logo_resized_path="$(download_resize_image "$platform" "$game" "logo" "$(db_game_property "$platform" "$game" "assets.logo")" "x$((banner_height * 75 / 100))")"
     
